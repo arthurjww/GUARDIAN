@@ -1,7 +1,7 @@
 # GUARDIAN AI
 
 ## Artificial Intelligence for Digital Scam Detection and Prevention
-<img width="400" alt="vera" src="https://github.com/user-attachments/assets/239c8c50-5f92-4452-84e5-c662fdafa3c3" />
+<img width="400" alt="guardian" src="https://github.com/user-attachments/assets/e2edb8f7-85d1-420a-b274-c81a7af72cd4" />
 
 GUARDIAN AI is a cybersecurity and artificial intelligence project focused on detecting, analyzing, and preventing digital scams through automated evidence analysis.
 
